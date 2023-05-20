@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+  .header{
+    padding: 10px 60px;
+    border-bottom: 1px solid gray;
+  }
+  h1{
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .main{
+    padding: 0px 60px;
+  }
+  .todo{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 5px;
+  }
+  .cut{
+    text-decoration: line-through;
+  }
